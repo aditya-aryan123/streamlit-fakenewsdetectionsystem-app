@@ -1,1 +1,1 @@
-# streamlit-fakenewsdetectionsystem-app
+# Fake News Detection System using Streamlit

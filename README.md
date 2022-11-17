@@ -15,6 +15,7 @@ Check out the live demo: https://aditya-aryan123-streamlit-recommendationsystem-
 ![plot](Screenshot3.png)
 
 0 - Fake News
+
 1 - Real News
 
 ## Overview

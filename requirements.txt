@@ -1,0 +1,11 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+pickle
+python
+regex==2022.10.31
+streamlit==1.14.1
+pandas==1.5.1
+numpy
+nltk
+scikit-learn==1.1.3

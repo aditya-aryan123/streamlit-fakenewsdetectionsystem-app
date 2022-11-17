@@ -14,6 +14,9 @@ Check out the live demo: https://aditya-aryan123-streamlit-recommendationsystem-
 
 ![plot](Screenshot3.png)
 
+0 - Fake News
+1 - Real News
+
 ## Overview
 
 The goal of this project is to classify fake news from real news and create a machine learning based algorithm for automatic labelling of texts that are potentially deceptive. Data was extracted from University of Victoria https://www.uvic.ca/ecs/ece/isot/datasets/fake-news/index.php. Data was preprocessed and cleaned using regex and nltk library for future modelling purpose. Multinomial Naive Bayes model is used for the classification purpose and TF-IDF Vectorizer was used to convert text data to numeric. Deployment was done on Streamlit Cloud.
